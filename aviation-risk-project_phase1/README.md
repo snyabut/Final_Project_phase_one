@@ -108,7 +108,7 @@ Exercise caution with aircraft types showing high fatal or damage rates:
 ## Interactive Dashboard
 
 Explore the dashboard here:  
- [Link to Interactive Dashboard – To Be Added]
+ [[Link to Interactive Dashboar](https://public.tableau.com/views/Tableaudraft_17459046483820/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)d – ]
 
 Features:
 - Filter by aircraft type, year, and purpose of flight
